@@ -4,7 +4,7 @@ title = "Juliya Gannon's Website"
 theme = 'hugo-xterm-1.7.4'
 pluralizelisttitles = false
 canonifyURLs = true
-paginate = 20
+paginate = 10
 
 [params]
     showBreadCrumbs = true
@@ -15,7 +15,6 @@ paginate = 20
 	
     copyrightUserURL = "https://juliya.dev/"
     copyrightUserText = "Juliya"
-    banner = "/images/juliya.png"
 	
     mood = 'image.png'
     song = 'SONGID'
@@ -49,8 +48,8 @@ enableGitInfo = true
 
 [params.git_info]
   host = "github"
-  user = "mothralady"
-  repo = "https://github.com/redheadsatx/Website"
+  user = "MothraLady"
+  repo = "juliyadev"
 
 
     [params.author]

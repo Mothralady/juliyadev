@@ -1,11 +1,13 @@
 .site-footer {
-  margin-top: $spacer-normal;
+  margin-top: $spacer-small;
   border-top: $spacer-1 solid;
 
   @include themed {
     border-color: t($accent);
     color: t($text-duller);
-  }
+    max-width: 864px;
+    margin: 0 auto;
+}
 
   @media print {
     display: none;

@@ -477,15 +477,34 @@ hr {
   }
 }
 
+.mood {
+  width: 50%;
+  height: 50%;
+  position: relative;
+}
 
 .mood img {
-   width: 350px;
-   height: 350px;
-   display: inline-block;
+  max-width: 100%;
+  height: auto;
+   display: block;
    border-radius: 50%;
+   border: 5px dotted #c174bc;
 }
 
 .song {
   height: 120px;
   position: relative;
+}
+
+.left {
+  max-width: 75%;
+  margin: 0 auto;
+}
+
+.left img {
+    border-radius: 10%;
+}
+
+figcaption.center { 
+  color: white;
 }

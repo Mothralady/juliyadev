@@ -14,32 +14,37 @@
 <hr>
     </header>
     {{- end }}
-
+<center>
     {{- with .Content }}
       <div class="post-content">
         {{ . }}
       </div>
     {{- end }}
 <hr>
+<center>
       <!-- Display Current Mood -->
       <center>
   {{ if .Params.mood }}
     <div class="current-mood">
-      <h3>⥊ Current Mood ⥋</h3>
-      <p><i> {{ .Params.moodtext }} </i></p>
+      <h3>⥊ <u>Current Mood</u> ⥋</h3>
       <div class="mood">
       <img src="{{ .Params.mood }}" alt="{{ .Params.moodtext }}">
+    </div>
+    <div class="mood-text"> ...<b>{{ .Params.moodtext }}</b>...
     </div>
     </div>
   {{ end }}
 
+  <hr>
             <!-- Display Spotify Song -->
   {{ if .Params.song }}
     <div class="song">
-      <h5>Currently Listening:</h5>
+      <h4>Currently Listening:</h4>
       <iframe src="https://open.spotify.com/embed/{{ (index (split .Params.song ":") 1) }}/{{ (index (split .Params.song ":") 2) }}"  frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     </div>
   {{ end }}
+
+  <hr>
 
      {{- if or (.Params.Date) (.Params.Author) }}
         <div class="post-meta">

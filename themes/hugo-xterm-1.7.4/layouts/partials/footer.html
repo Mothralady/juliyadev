@@ -1,8 +1,9 @@
 {{- /* site build info */}}
+<center>
 <p class="buildinfo">
   {{- /* site build timestamp */}}
-  <time datetime="{{ now.Format "01-02-2006" }}">Site built on {{ now.Format "01-02-2006" }}</time>
-
+  <time datetime="{{ now.Format "01-02-2006" }}">Last Deployment Build: {{ now.Format "01-02-2006" }}</time>
+</center>
   {{- with site.Params.git.last_commit -}}
     {{- $commitUrl := "" -}}
     {{- if (isset site.Params "git_info") -}}
@@ -72,5 +73,8 @@
 
 {{- /* site theme info */}}
 <center>
-<p class="themeinfo">created by <a href="https://redheads.dev">redheads</a></p>
+<p class="themeinfo">created by <a href="https://redheads.dev">redheads</a><br>
+  <sub>using a heavily modified version of <b><a href="https://github.com/manid2/hugo-xterm">XTerm</a></b></sub>
+</p>
+<br>
 </center>

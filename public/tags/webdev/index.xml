@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webdev on Juliya Gannon&#39;s Website</title>
+    <link>//localhost:1313/tags/webdev/</link>
+    <description>Recent content in Webdev on Juliya Gannon&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en</language>
+      <copyright>©</copyright>
+      <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>//localhost:1313/blog/welcome/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+
+      <guid>//localhost:1313/blog/welcome/</guid>
+      <description>.::NAME::. .::INFO::. Cloudflare DNS, Domain, Analytics, Security, Deployment Github Source Code Storage I&amp;rsquo;m using a heavily-modified version of XTerm, I&amp;rsquo;m just too lazy to make it into a unique theme.
+I&amp;rsquo;ve made several new additions as welL:
+Current Mood
+Photo + Text
+(pulled from a post&amp;rsquo;s TOML front matter)
+Currently Listening
+Spotify Song Embed
+(pulled from a post&amp;rsquo;s TOML front matter, based on SONG ID)
+Raw HTML Shortcode
+Insert raw HTML code into Markdown content</description>
+      <content>
+  &lt;figure class=&#34;left&#34;&gt;
+    &lt;img src=&#34;//localhost:1313/images/bobby.jpeg&#34; alt=&#34;meirl&#34;  /&gt;
+  &lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;.::&lt;strong&gt;NAME&lt;/strong&gt;::.&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;.::&lt;strong&gt;INFO&lt;/strong&gt;::.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Cloudflare&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;DNS, Domain, Analytics, Security, Deployment&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Source Code Storage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;br&gt;
+
+&lt;p&gt;I&amp;rsquo;m using a &lt;em&gt;heavily&lt;/em&gt;-modified version of &lt;a href=&#34;https://github.com/manid2/hugo-xterm&#34;&gt;&lt;strong&gt;XTerm&lt;/strong&gt;&lt;/a&gt;, I&amp;rsquo;m just too lazy to make it into a unique theme.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve made several new additions as welL:&lt;/p&gt;
+
+
+&lt;br&gt;
+
+&lt;p&gt;&lt;strong&gt;Current Mood&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Photo + Text&lt;/p&gt;
+&lt;p&gt;(pulled from a post&amp;rsquo;s &lt;code&gt;TOML&lt;/code&gt; front matter)&lt;/p&gt;
+
+
+&lt;br&gt;
+
+&lt;p&gt;&lt;strong&gt;Currently Listening&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spotify Song Embed&lt;/p&gt;
+&lt;p&gt;(pulled from a post&amp;rsquo;s &lt;code&gt;TOML&lt;/code&gt; front matter, based on SONG ID)&lt;/p&gt;
+
+
+&lt;br&gt;
+
+&lt;p&gt;&lt;strong&gt;Raw HTML Shortcode&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Insert raw &lt;code&gt;HTML&lt;/code&gt; code into Markdown content&lt;/p&gt;
+
+
+&lt;br&gt;
+
+&lt;p&gt;Plus a ton of other changes I really don&amp;rsquo;t feel like listing.&lt;/p&gt;
+</content>
+    </item>
+  </channel>
+</rss>
