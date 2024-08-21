@@ -1,4 +1,3 @@
-# Website
-Redheads Studio's Official Website
+# My Personal Website
 
-Theme is a heavily modified version of [Poison](https://github.com/lukeorth/poison) (has a bug that breaks the website present and must be fixed before deployment!)
+Theme is a heavily modified version of [XTerm]([https://github.com/](https://github.com/manid2/hugo-xterm)) 
