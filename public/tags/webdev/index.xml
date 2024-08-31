@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
       <language>en</language>
       <copyright>©</copyright>
-      <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
+      <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redheads and Heavy Network</title>
+      <link>//localhost:1313/blog/redheads-and-heavy-network/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+
+      <guid>//localhost:1313/blog/redheads-and-heavy-network/</guid>
+      <description>Earlier in the Summer, I decided to create a game studio with my friend, Janine. We were to call it Redheads, which is why you might see a link to it at the bottom of my website.
+Unfortunately, things did not pan out. I became overworked and overwhelmed trying to do everything at once. I then decided, what if I restarted Heavy Network - a project dedicated to providing free static websites to local unsigned musicians.</description>
+      <content>&lt;p&gt;Earlier in the Summer, I decided to create a game studio with my friend, Janine. We were to call it &lt;strong&gt;Redheads&lt;/strong&gt;, which is why you might see a link to it at the bottom of my website.&lt;/p&gt;
+&lt;p&gt;Unfortunately, things did not pan out. I became overworked and overwhelmed trying to do everything at once. I then decided, what if I restarted &lt;strong&gt;Heavy Network&lt;/strong&gt; - a project dedicated to providing free static websites to local &lt;em&gt;unsigned&lt;/em&gt; musicians. I started Heavy in 2017, my first band being &lt;strong&gt;Monte Luna&lt;/strong&gt; in Austin, Texas. Sad to say Monte Luna broke my only rule - that bands remain unsigned to a record label if they wanted my services. Suffice to say I was disheartened after all that. But my dream of helping independent musicians in my city persisted.&lt;/p&gt;
+&lt;p&gt;So now I am dedicating my free dev time completely to what I started Heavy Network to do, but without a company or plans to grow or prosper. It will be something I do in my spare time, for nothing at all.&lt;/p&gt;
+&lt;p&gt;If you are interested in a website from me, and are an &lt;em&gt;unsigned&lt;/em&gt; musician in Texas, please &lt;a href=&#34;mailto:juliyagannon@proton.me&#34;&gt;&lt;strong&gt;email me&lt;/strong&gt;&lt;/a&gt;. Check the homepage on my website to see if I am currently accepting new bands.&lt;/p&gt;
+</content>
+    </item>
     <item>
       <title>Welcome</title>
       <link>//localhost:1313/blog/welcome/</link>

@@ -25,7 +25,7 @@ Technologies: Go, HTML/CSS, C++, Python, and more!
     name="Freelancing"
     date="2012 – Present"
     title="Full-Stack Dev"
-    location="San, Antonio + Austin, Texas" >}}
+    location="San Antonio + Austin, Texas" >}}
 
 * Worked as a Freelance Dev for over a decade.
 
