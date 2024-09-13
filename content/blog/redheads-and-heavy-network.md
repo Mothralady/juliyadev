@@ -7,7 +7,7 @@ toc = false
 mood = "/images/doomer.jpeg"
 moodtext = "doing my best"
 song = "spotify:track:6PfIYHcJP3lgjCML0yLtsU?"
-tags = ["meirl"]
+tags = ["meirl", "webdev"]
 draft = false
 +++
 
@@ -28,4 +28,4 @@ If you are interested in a website from me, and are an _unsigned_ musician in Te
 It is no one's fault but my own. I take full accountability for not being able to handle such an intense workload. I was trying to learn everything at once, doing everything at once. I didn't have a good system in place for me. But now I do. I realize how important it is that I limit my dev work to only a few days a week to stay sane.
 
 In better news, *tomorrow I am 12 years sober*! I am celebrating with my husband, Eirik, and my mother (Happy Birthday mom!)
-Except at least one blog post a month from me, maybe ramp it up later. Cause who reads blogs anymore? They're usually lame and boring. I hope you enjoy my blog even if it's just to cringe :D
+Expect at least one blog post a month from me, maybe ramp it up later. Cause who reads blogs anymore? They're usually lame and boring. I hope you enjoy my blog even if it's just to cringe :D
