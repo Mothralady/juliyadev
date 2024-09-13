@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blog/new-test/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/hugo/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:1313/tags/meirl/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/</loc>
@@ -20,10 +17,10 @@
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/webdev/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/test/</loc>
+    <loc>//localhost:1313/tags/webdev/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/welcome/</loc>
